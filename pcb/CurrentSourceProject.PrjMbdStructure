@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=CurrentSourceProject.MbsDoc|Kind=Multi-board Schematic Module|Designator=Base PCB|Source=CurrentSourceModule\CurrentSourceModule.PrjPcb
+Record=SubProject|SourceDocument=CurrentSourceProject.MbsDoc|ProjectPath=CurrentSourceModule\CurrentSourceModule.PrjPcb
+Record=DiagramHierarchy|SourceDocument=CurrentSourceProject.MbsDoc|Kind=Multi-board Schematic Module|Designator=Stamp|Source=StampModule\Stamp.PrjPcb
+Record=SubProject|SourceDocument=CurrentSourceProject.MbsDoc|ProjectPath=StampModule\Stamp.PrjPcb

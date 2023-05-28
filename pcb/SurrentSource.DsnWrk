@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=CurrentSourceProject.PrjMbd
+[Project2]
+ProjectPath=CurrentSourceModule\CurrentSourceModule.PrjPcb
+[Project3]
+ProjectPath=Libraries\Passive\LibPassive.LibPkg
+[Project4]
+ProjectPath=Libraries\Rest\Library.LibPkg
+[Project5]
+ProjectPath=StampModule\Stamp.PrjPcb

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Stamp.PcbDoc]
+   Generated File[Stamp.GTO]
+   Generated File[Stamp.GTS]
+   Generated File[Stamp.GTL]
+   Generated File[Stamp.G1]
+   Generated File[Stamp.G2]
+   Generated File[Stamp.GBL]
+   Generated File[Stamp.GBS]
+   Generated File[Stamp.GBO]
+   Generated File[Stamp.GM2]
+   Generated File[Stamp.RUL]
+   Generated File[Stamp.EXTREP]
+   Generated File[Stamp.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 18:51:06 On 2021-06-07
